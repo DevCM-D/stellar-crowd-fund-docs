@@ -13,6 +13,7 @@ Welcome to the official documentation for **Stellar Crowd Fund Escrow**, a decen
 | Understand what this is and why it exists | [Getting Started → Overview](getting-started/overview.md) |
 | Run the project locally in under 10 minutes | [Getting Started → Quickstart](getting-started/quickstart.md) |
 | Understand how escrows and milestones work | [Concepts → Escrow Lifecycle](concepts/escrow-lifecycle.md) |
+| Learn how crowd-funded pools work | [Concepts → Crowd-Funding Pools](concepts/crowd-funding-pools.md) |
 | See how the platform is structured | [Architecture → Overview](architecture/overview.md) |
 | Integrate via the REST API | [API Reference → Authentication](api-reference/authentication.md) |
 | Deploy to a server or cloud | [Deployment → Environment Variables](deployment/environment-variables.md) |
@@ -33,6 +34,7 @@ docs/
 │
 ├── concepts/
 │   ├── escrow-lifecycle.md      States, transitions, and who triggers them
+│   ├── crowd-funding-pools.md   Pool creation, contribution, governance, and refunds
 │   ├── milestones.md            How milestone-based fund release works
 │   ├── reputation-system.md     On-chain reputation events and scoring
 │   ├── disputes.md              Dispute flow, evidence submission, and resolution
@@ -84,6 +86,7 @@ docs/
 
 **Concepts**
 - [Escrow Lifecycle](concepts/escrow-lifecycle.md)
+- [Crowd-Funding Pools](concepts/crowd-funding-pools.md)
 - [Milestones](concepts/milestones.md)
 - [Reputation System](concepts/reputation-system.md)
 - [Disputes](concepts/disputes.md)
