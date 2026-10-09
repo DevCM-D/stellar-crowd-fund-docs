@@ -4,6 +4,12 @@ Welcome to the official documentation for **Stellar Crowd Fund Escrow**, a decen
 
 > **Source code:** [DevCM-D/Stellar-Crowd-Fund-Escrow](https://github.com/DevCM-D/Stellar-Crowd-Fund-Escrow)
 
+> **Documentation status:** this site describes the current development
+> workflow. Deployment, security, and production-checklist pages are guidance,
+> not evidence of an audit or a production deployment. Confirm contract IDs,
+> environment variables, and supported commands against the source repository
+> before using them operationally.
+
 ---
 
 ## Where to Start
